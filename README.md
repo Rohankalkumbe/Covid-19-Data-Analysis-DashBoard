@@ -1,5 +1,8 @@
 # 📊 COVID-19 Data Analysis Dashboard
 
+<img width="608" alt="Covid-19 DashBoard" src="https://github.com/user-attachments/assets/cf72c8dd-e6a2-4901-8af3-f85d5ba50680" />
+
+
 ## 📌 Overview
 This project presents a **COVID-19 Data Analysis Dashboard** built using **Power BI**. The dashboard provides insights into global COVID-19 trends, including **total cases, deaths, recoveries, and regional impact**.
 
